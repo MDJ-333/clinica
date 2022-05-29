@@ -1,0 +1,94 @@
+#formulario{
+    width:450px;
+    height: 55px;
+    margin: 0px auto;
+    border: 3px solid #000000;
+    
+}
+#boton{
+    background-color:#FE9C92;
+    color:white;
+    width:180px;
+    margin: 0px auto;
+    font-size: 6mm;
+}
+#boton:hover{
+    background: #85C1E9;
+}
+#botonDashboard-style1{
+    border-radius:20px;
+    background-color:#616A6B;
+    color:white;
+    margin: 0px auto;
+    padding-top:20px;
+    padding-right:30px;
+    padding-bottom:10px;
+    padding-left:30px;
+    transition: .3s ease all;
+}
+#botonDashboard-style1:hover{
+    background: #85C1E9 ;
+}
+
+#botonDashboard-style2{
+    border-radius:20px;
+    background-color:#FE9C92;
+    color:white;
+    padding-top:15px;
+    padding-right:15px;
+    padding-bottom:15px;
+    padding-left:15px;
+}
+#botonDashboard-style2:hover{
+    background: #85C1E9;
+}
+
+#boton-general:hover{
+    background: #85C1E9;
+}
+#botonDashboard-style3{
+    border-radius:20px;
+    background-color:#FE9C92;
+    color:white;
+    padding-top:20px;
+    padding-right:35px;
+    padding-bottom:10px;
+    padding-left:35px;
+}
+#botonDashboard-style3:hover{
+    background: #85C1E9;
+}
+
+#botonDashboard-style4{
+    border-radius:20px;
+    background-color:#616A6B;
+    color:white;
+    padding-top:25px;
+    padding-right:35px;
+    padding-bottom:25px;
+    padding-left:35px;
+}
+#botonDashboard-style4:hover{
+    background: #85C1E9;
+}
+
+.header {
+    background: #FE9C92;
+    color: white;
+    padding: 1rem 0;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    text-align: center;
+    
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+

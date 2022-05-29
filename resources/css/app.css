@@ -1,0 +1,14 @@
+#formulario{
+    width:450px;
+    height: 55px;
+    margin: 0px auto;
+    border: 3px solid #000000;
+    
+}
+#boton{
+    background-color:#FE9C92;
+    color:white;
+    width:180px;
+    margin: 0px auto;
+    font-size: 6mm;
+}
